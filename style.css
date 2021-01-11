@@ -1,0 +1,28 @@
+body {
+  color: red;
+  background-image: url("background.png");
+}
+
+span {
+  font-size: 30px;
+}
+
+label {
+  background-color: rgba(192, 211, 255, 0.6);
+  font-weight: bolder;
+}
+
+#camera,
+#result {
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+.result_hand_gesture_name {
+  font-size: 40px;
+}
+
+.gesture_icon {
+  font-size: 48px;
+}
